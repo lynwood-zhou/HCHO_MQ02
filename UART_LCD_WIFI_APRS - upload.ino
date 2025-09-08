@@ -27,8 +27,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
 // FOR APRS
-#define CALLSIGN "BG5DDX-11"
-#define PASSCODE "16569" // GENERATE IT ON apps.magicbug.co.uk/passcode/
+#define CALLSIGN "xx"
+#define PASSCODE "xx" // GENERATE IT ON apps.magicbug.co.uk/passcode/
 #define LATITUDE "3044.04N" // LOOK !! -> 4 DIGITS POINT 2 DIGITS
 #define LONGITUDE "12043.55E" // LOOK !! -> 5 DIGITS POINT 2 DIGITS
 #define SERVER_NAME "china.aprs2.net"
@@ -631,3 +631,4 @@ void blink_lcd()
 
   
     }
+
